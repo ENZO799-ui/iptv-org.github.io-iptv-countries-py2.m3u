@@ -45,36 +45,36 @@ https://copacogen.desdeparaguay.net/aspentv/aspentv/index.m3u8?admin=nacion
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="DismarRadioTV.py@SD" tvg-logo="https://i.imgur.com/KOuxdMD.png" group-title="Music",Dismar Radio TV (720p)
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-#EXTINF:-1 tvg-id="EventosAPF.py@Default" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="Sports", Tigo Sports Paraguay (720p)
+#EXTINF:-1 tvg-id="TigoSports.py" tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="Sports", Tigo Sports Paraguay (720p)
 https://live.enhdtv.com:8081/8160/index.m3u8
-#EXTINF:-1 tvg-id="EventosTigo.py@Default" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="Sports", Tigo Sports+ Paraguay (720p)
+#EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="Sports", Tigo Sports+ Paraguay (720p)
 https://corgol.com@live.enhdtv.com:8081/8160/index.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx@Default" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports", TUDN
+#EXTINF:-1 tvg-id="6320d80a66666000086712d7" tvg-name="Claro Sports" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Deportes" tvg-chno="835", Claro Sports
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTUSaL5q1VtS-E1wCfb1nvO4/m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports", TUDN
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
-#EXTINF:-1 tvg-id="ESPN.ar@Default" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png" group-title="Sports", ESPN
+#EXTINF:-1 tvg-id="ESPN.ar@Default" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png" group-title="Sports", ESPN Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
-#EXTINF:-1 tvg-id="ESPN2.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Sports", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Sports", ESPN 2 Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
-#EXTINF:-1 tvg-id="ESPN3.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Sports", ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Sports", ESPN 3 Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
-#EXTINF:-1 tvg-id="ESPN4.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports", ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports", ESPN 4 Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
-#EXTINF:-1 tvg-id="ESPN5.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png" group-title="Sports", ESPN 5
+#EXTINF:-1 tvg-id="ESPN5.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png" group-title="Sports", ESPN 5 Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
-#EXTINF:-1 tvg-id="ESPN6.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png" group-title="Sports", ESPN 6
+#EXTINF:-1 tvg-id="ESPN6.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png" group-title="Sports", ESPN 6 Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
-#EXTINF:-1 tvg-id="ESPN7.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png" group-title="Sports", ESPN 7
+#EXTINF:-1 tvg-id="ESPN7.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png" group-title="Sports", ESPN 7 Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
-#EXTINF:-1 tvg-id="ESPNPremium.ar@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png" group-title="Sports", ESPN PREMIUM
+#EXTINF:-1 tvg-id="ESPNPremium.ar@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png" group-title="Sports", ESPN PREMIUM Latin America
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar@Default" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png" group-title="Sports", Fox Sports 
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png" group-title="Sports", Fox Sports 
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-91.playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.ar@Default" tvg-logo="https://i.ibb.co/YjrQ0CQ/fs2.png" group-title="Sports", Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://i.ibb.co/YjrQ0CQ/fs2.png" group-title="Sports", Fox Sports 2
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-93.playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports3.ar@Default" tvg-logo="https://i.ibb.co/SBkkDxq/fs3.png" group-title="Sports", Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://i.ibb.co/SBkkDxq/fs3.png" group-title="Sports", Fox Sports 3
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-92.playlist.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us@Default" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06589c968882b19431e883df28f54cf.webp" group-title="Sports", Fox Deportes
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1b6ecec3-ea2d-11f0-972f-69dd03187d36&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee5c1cd2-4f0f-413d-b489-69c95ce6c168&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="CBSSports.us@Default" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports", CBS SPORTS
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsGolazo.us@Default" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports", CBS SPORTS GOLAZO
