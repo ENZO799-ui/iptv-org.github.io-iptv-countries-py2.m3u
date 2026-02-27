@@ -49,7 +49,7 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 https://live.enhdtv.com:8081/8160/index.m3u8
 #EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="Sports", Tigo Sports+ Paraguay (720p)
 https://corgol.com@live.enhdtv.com:8081/8160/index.m3u8
-#EXTINF:-1 tvg-id="6320d80a66666000086712d7" tvg-name="Claro Sports" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Deportes" tvg-chno="835", Claro Sports
+#EXTINF:-1 tvg-id="6320d80a66666000086712d7" tvg-name="Claro Sports" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Sports" tvg-chno="835", Claro Sports
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTUSaL5q1VtS-E1wCfb1nvO4/m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports", TUDN
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
