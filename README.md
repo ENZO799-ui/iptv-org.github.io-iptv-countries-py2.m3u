@@ -195,3 +195,167 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/pl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png?20240911230146" group-title="Music", Trace UK (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=7dIosAVyILi
+#EXTINF:-1 tvg-id="USBD3300004RH" tvg-name="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="Music" , XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 tvg-id="USBB320000647" tvg-name="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png" group-title="Music" , XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+#EXTINF:-1 tvg-id="USBB3200007AK" tvg-name="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png" group-title="Music" , XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 tvg-id="USBD350003932" tvg-name="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260224T212700SQUARE.png" group-title="Music" , XITE Women in Music
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 tvg-id="USBD3300006O3" tvg-name="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="Music" , XITE Country Today
+https://jmp2.uk/stvp-USBD3300006O3
+#EXTINF:-1 tvg-id="USBD3300011UT" tvg-name="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="Music" , XITE Classic Country
+https://jmp2.uk/stvp-USBD3300011UT
+#EXTINF:-1 tvg-id="US46000072L" tvg-name="US46000072L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000072L_20250204T014323SQUARE.png" group-title="Music" , XITE Christian Hits
+https://jmp2.uk/stvp-US46000072L
+#EXTINF:-1 tvg-id="USBD3300007PB" tvg-name="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20241203T004813SQUARE.png" group-title="Music" , XITE Nuevo Latino
+https://jmp2.uk/stvp-USBD3300007PB
+#EXTINF:-1 tvg-id="USBD3300010L9" tvg-name="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png" group-title="Music" , XITE Siempre Latino
+https://jmp2.uk/stvp-USBD3300010L9
+#EXTINF:-1 tvg-id="USBD330000948" tvg-name="USBD330000948" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="Music" , XITE R&B Classic Jams
+https://jmp2.uk/stvp-USBD330000948
+#EXTINF:-1 tvg-id="US4600008JA" tvg-name="US4600008JA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600008JA_20250204T014325SQUARE.png" group-title="Music" , XITE Reggae Vibes
+https://jmp2.uk/stvp-US4600008JA
+#EXTINF:-1 tvg-id="USBB2300004KV" tvg-name="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music" , XITE Rock x Metal
+https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1 tvg-id="USBB2300003JZ" tvg-name="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="Music" , XITE Just Chill
+https://jmp2.uk/stvp-USBB2300003JZ
+#EXTINF:-1 tvg-id="NOW70s.uk@Default" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e60f4df9-a0e1-4d45-9b3c-ee619812b2bc.jpeg" group-title="Music", NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5284&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=689ce272-3196-471b-a1b7-674441f9e59f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="Music", NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5318&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=7f379c24-0e41-4956-892e-8aad976555b8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="NOW90s00s.uk@Default" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/798cc3b5-1f31-4bee-97d2-39a6555d7b07.jpeg" group-title="Music", NOW 90s-00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8?ads_amagi_channel_id=1033&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6994&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=75c457fa-036d-4637-bc61-48af6d50542d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="NOWRocks.uk@Default" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e92f17dc-61c7-4249-9d1c-8013899220af.jpeg" group-title="Music", NOW ROCKS
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5352&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=08a655cd-479d-4546-ae2b-051feb4b5bd4&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="Vevo70s.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20251013T235730SQUARE.png" group-title="Music", Vevo '70s
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo80s.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20251013T235732SQUARE.png" group-title="Music", Vevo '80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo90s.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20251013T235735SQUARE.png" group-title="Music", Vevo '90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo2K.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20251013T235740SQUARE.png" group-title="Music", Vevo 2K
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo2010s.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20251013T235738SQUARE.png" group-title="Music", Vevo 2010s
+https://jmp2.uk/stvp-USBD120002431
+#EXTINF:-1 tvg-id="VevoRock.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20251013T235756SQUARE.png" group-title="Music", Vevo Rock
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=b18bc227-7b44-4b47-bd54-8034903abfcb&serverSideAds=false
+#EXTINF:-1 tvg-id="VevoRetroRock.us@Default" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music", Vevo RetroRock
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.la@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20251013T235748SQUARE.png" group-title="Music", Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoIconosLatinos.la@Default" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music", Vevo Iconos Latinos
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=06601cb4-8457-445a-9eef-ef7e1a4377c5&serverSideAds=false
+#EXTINF:-1 tvg-id="VevoRegionalMX.mx@Default" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" group-title="Music", Vevo Regional MX
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=150a018c-ed5a-4a4e-bb31-3b2150d04256&serverSideAds=false
+#EXTINF:-1 tvg-id="VevoHipHop.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20251013T235745SQUARE.png" group-title="Music", Vevo Hip-Hop
+https://jmp2.uk/stvp-USBC3600002EK
+#EXTINF:-1 tvg-id="VevoRnB.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20251013T235753SQUARE.png" group-title="Music", Vevo R&B
+https://jmp2.uk/stvp-USBC3900009K5
+#EXTINF:-1 tvg-id="VevoHipHopRnBUK.uk@Default" tvg-logo="https://yt3.googleusercontent.com/xwNvRXCTDFU0CjZPERoZsKLkVtRDgag7m40ItyeeacLYRvYGC-kdRu4z1Vp3nBpEPZvZXZbFgg=s120-c-k-c0x00ffffff-no-rj" group-title="Music", Vevo Hip-Hop & R&B UK
+https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoHipHopRnBDE.de@Default" tvg-logo="https://yt3.googleusercontent.com/xwNvRXCTDFU0CjZPERoZsKLkVtRDgag7m40ItyeeacLYRvYGC-kdRu4z1Vp3nBpEPZvZXZbFgg=s120-c-k-c0x00ffffff-no-rj" group-title="Music", Vevo Hip-Hop & R&B DE
+https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us@Default" tvg-logo="https://i.imgur.com/owUXUih.png" group-title="Music", Vevo True School Hip-Hop
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=0ebdbc2b-2ef4-4797-a1ba-55e2b483e375&serverSideAds=false
+#EXTINF:-1 tvg-id="VevoCountry.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20251013T235743SQUARE.png" group-title="Music", Vevo Country
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoCountryRewind.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006630_20260117T020414SQUARE.png" group-title="Music", Vevo Country Rewind
+https://jmp2.uk/stvp-US400006630
+#EXTINF:-1 tvg-id="VevoPop.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20251028T011144SQUARE.png" group-title="Music", Vevo Pop
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPopDE.de@Default" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music", Vevo Pop Deutsch
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPopIT.it@Default" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music", Vevo Pop Italian
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPopES.es@Default" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music", Vevo Pop Español
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SMTOWN.kr@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20260210T002209SQUARE.png" group-title="Music", SMTOWN
+https://jmp2.uk/stvp-US10000135V
+#EXTINF:-1 tvg-id="NewKpop.kr@Default" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Music", NEW K-POP
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KpopMix.kr@Default" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Music", K-POP MIX
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-id="KpopCJ.kr@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20251202T005927SQUARE.png" group-title="Music", K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+#EXTINF:-1 tvg-id="KpopTVPlay.kr@Default" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Music", K-POP TV PLAY
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="USBD7000017L" tvg-name="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20251125T030853SQUARE.png" group-title="Latino" , AMC en Español
+https://jmp2.uk/stvp-USBD7000017L
+#EXTINF:-1 tvg-id="US2600019IC" tvg-name="US2600019IC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" group-title="Latino" , Historia
+https://jmp2.uk/stvp-US2600019IC
+#EXTINF:-1 tvg-id="US4600005ST" tvg-name="US4600005ST" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600005ST_20250428T223427SQUARE.png" group-title="Latino" , CG MMA En Español
+https://jmp2.uk/stvp-US4600005ST
+#EXTINF:-1 tvg-id="USBD1700016X9" tvg-name="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240520T212951SQUARE.png" group-title="Latino" , Zona TUDN
+https://jmp2.uk/stvp-USBD1700016X9
+#EXTINF:-1 tvg-id="US2700004DX" tvg-name="US2700004DX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700004DX_20240826T235608SQUARE.png" group-title="Latino" , beIN Sports XTRA ñ
+https://jmp2.uk/stvp-US2700004DX
+#EXTINF:-1 tvg-id="US41000060J" tvg-name="US41000060J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US41000060J_20250401T004920SQUARE.png" group-title="Latino" , WAPA+
+https://jmp2.uk/stvp-US41000060J
+#EXTINF:-1 tvg-id="USBB3200016HO" tvg-name="USBB3200016HO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200016HO_20250505T232646SQUARE.png" group-title="Latino" , Telemundo Al Día
+https://jmp2.uk/stvp-USBB3200016HO
+#EXTINF:-1 tvg-id="US3000005RS" tvg-name="US3000005RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20241014T232258SQUARE.png" group-title="Latino" , Noticias Telemundo Ahora
+https://jmp2.uk/stvp-US3000005RS
+#EXTINF:-1 tvg-id="US1800002UQ" tvg-name="US1800002UQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800002UQ_20240826T235601SQUARE.png" group-title="Latino" , Telemundo Accion
+https://jmp2.uk/stvp-US1800002UQ
+#EXTINF:-1 tvg-id="US1800004S5" tvg-name="US1800004S5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800004S5_20251111T200829SQUARE.png" group-title="Latino" , Caso Cerrado
+https://jmp2.uk/stvp-US1800004S5
+#EXTINF:-1 tvg-id="USBA300040WR" tvg-name="USBA300040WR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300040WR_20240520T212527SQUARE.png" group-title="Latino" , Estrella TV
+https://jmp2.uk/stvp-USBA300040WR
+#EXTINF:-1 tvg-id="USAJ2200020N4" tvg-name="USAJ2200020N4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200020N4_20240520T212525SQUARE.png" group-title="Latino" , Estrella News
+https://jmp2.uk/stvp-USAJ2200020N4
+#EXTINF:-1 tvg-id="US2200003ZN" tvg-name="US2200003ZN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200003ZN_20240910T003743SQUARE.png" group-title="Latino" , Curiosity Motores
+https://jmp2.uk/stvp-US2200003ZN
+#EXTINF:-1 tvg-id="USBC24000145I" tvg-name="USBC24000145I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000145I_20240520T212753SQUARE.png" group-title="Latino" , Estrella Games
+https://jmp2.uk/stvp-USBC24000145I
+#EXTINF:-1 tvg-id="US2200001IY" tvg-name="US2200001IY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200001IY_20240910T003736SQUARE.png" group-title="Latino" , Curiosity Animales
+https://jmp2.uk/stvp-US2200001IY
+#EXTINF:-1 tvg-id="US22000020U" tvg-name="US22000020U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US22000020U_20241217T202304SQUARE.png" group-title="Latino" , Curiosity Explora
+https://jmp2.uk/stvp-US22000020U
+#EXTINF:-1 tvg-id="USAJ3504719A" tvg-name="USAJ3504719A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20241210T231512SQUARE.png" group-title="Latino" , Sony One Competencias
+https://jmp2.uk/stvp-USAJ3504719A
+#EXTINF:-1 tvg-id="USAJ3000002OC" tvg-name="USAJ3000002OC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20241119T232803SQUARE.png" group-title="Latino" , Sony One Novelas
+https://jmp2.uk/stvp-USAJ3000002OC
+#EXTINF:-1 tvg-id="USBC39000080S" tvg-name="USBC39000080S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000080S_20241228T011434SQUARE.png" group-title="Latino" , Canela.TV
+https://jmp2.uk/stvp-USBC39000080S
+#EXTINF:-1 tvg-id="US27000033D" tvg-name="US27000033D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20241119T020400SQUARE.png" group-title="Latino" , Novelas Turcas
+https://jmp2.uk/stvp-US27000033D
+#EXTINF:-1 tvg-id="US270000298" tvg-name="US270000298" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000298_20241119T020402SQUARE.png" group-title="Latino" , ¿Qué Culpa Tiene Fatmagül?
+https://jmp2.uk/stvp-US270000298
+#EXTINF:-1 tvg-id="US2200005Y2" tvg-name="US2200005Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" group-title="Latino" , Canal ViX
+https://jmp2.uk/stvp-US2200005Y2
+#EXTINF:-1 tvg-id="US2200004HD" tvg-name="US2200004HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200004HD_20241112T000948SQUARE.png" group-title="Latino" , Angelique
+https://jmp2.uk/stvp-US2200004HD
+#EXTINF:-1 tvg-id="USBB44000099N" tvg-name="USBB44000099N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20241228T011422SQUARE.png" group-title="Latino" , ViX Novelas de romance
+https://jmp2.uk/stvp-USBB44000099N
+#EXTINF:-1 tvg-id="USBD17000172A" tvg-name="USBD17000172A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000172A_20241228T011516SQUARE.png" group-title="Latino" , Las 3 Marías
+https://jmp2.uk/stvp-USBD17000172A
+#EXTINF:-1 tvg-id="USBC2100012EJ" tvg-name="USBC2100012EJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20241228T011537SQUARE.png" group-title="Latino" , ViX Grandes Parejas
+https://jmp2.uk/stvp-USBC2100012EJ
+#EXTINF:-1 tvg-id="USBC2100011WI" tvg-name="USBC2100011WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20241228T011542SQUARE.png" group-title="Latino" , ViX Villanos de Novela
+https://jmp2.uk/stvp-USBC2100011WI
+#EXTINF:-1 tvg-id="USBC2100010OS" tvg-name="USBC2100010OS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20241228T011539SQUARE.png" group-title="Latino" , ViX JaJaJa
+https://jmp2.uk/stvp-USBC2100010OS
+#EXTINF:-1 tvg-id="USBD1700018II" tvg-name="USBD1700018II" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700018II_20241228T011534SQUARE.png" group-title="Latino" , Rebelde
+https://jmp2.uk/stvp-USBD1700018II
+#EXTINF:-1 tvg-id="USBD2700002DU" tvg-name="USBD2700002DU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20241228T011511SQUARE.png" group-title="Latino" , Galanes
+https://jmp2.uk/stvp-USBD2700002DU
+#EXTINF:-1 tvg-id="USBD2500022U5" tvg-name="USBD2500022U5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20241228T011501SQUARE.png" group-title="Latino" , Cine Retro
+https://jmp2.uk/stvp-USBD2500022U5
+#EXTINF:-1 tvg-id="USBD2700005KL" tvg-name="USBD2700005KL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20241228T011503SQUARE.png" group-title="Latino" , Cine de Oro
+https://jmp2.uk/stvp-USBD2700005KL
+#EXTINF:-1 tvg-id="USBD2700004ME" tvg-name="USBD2700004ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20241228T011506SQUARE.png" group-title="Latino" , Como Dice el Dicho
+https://jmp2.uk/stvp-USBD2700004ME
+#EXTINF:-1 tvg-id="USBD2700003F3" tvg-name="USBD2700003F3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700003F3_20241228T011531SQUARE.png" group-title="Latino" , Pequenos Gigantes
+https://jmp2.uk/stvp-USBD2700003F3
+#EXTINF:-1 tvg-id="USBD1700015J1" tvg-name="USBD1700015J1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20241228T011456SQUARE.png" group-title="Latino" , Aquí y Ahora
+https://jmp2.uk/stvp-USBD1700015J1
+#EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title="Latino" , Noticias Univision 24/7
+https://jmp2.uk/stvp-USBD1700014QU
+#EXTINF:-1 tvg-id="USBA3800001E0" tvg-name="USBA3800001E0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20250325T020215SQUARE.png" group-title="Latino" , Cine Romantico
+https://jmp2.uk/stvp-USBA3800001E0
+#EXTINF:-1 tvg-id="US1700019P7" tvg-name="US1700019P7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1700019P7_20250826T234524SQUARE.png" group-title="Latino" , Coreano by CJ ENM
+https://jmp2.uk/stvp-US1700019P7
+#EXTINF:-1 tvg-id="USAJ1700009QJ" tvg-name="USAJ1700009QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ1700009QJ_20260120T230326SQUARE.png" group-title="Latino" , FreeTV Estelar
+https://jmp2.uk/stvp-USAJ1700009QJ
