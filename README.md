@@ -7,7 +7,7 @@ https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="America.py@Paraguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Nation", America paraguay (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
-#EXTINF:-1 tvg-id="A24.py@Default" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Nacion", A24 Py (720p)
+#EXTINF:-1 tvg-id="A24.py@Default" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Nation", A24 Py (720p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Nation", Telefe
 http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/telefe_default.m3u8
@@ -31,7 +31,7 @@ https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 #EXTINF:-1 tvg-id="CambyretaTV.py@Default" tvg-logo="https://i.imgur.com/2drFLST.png" group-title="Nation", Cambyreta TV
 https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8
-#EXTINF:-1 tvg-id="EduCanal.py@SD" tvg-logo="https://educanal.com.py/wp-content/uploads/2026/02/cropped-logo-nuevo-educanal-e1770072292135-135x82.png" group-title="Nacion", EduCanal Py [Not 24/7]
+#EXTINF:-1 tvg-id="EduCanal.py@SD" tvg-logo="https://educanal.com.py/wp-content/uploads/2026/02/cropped-logo-nuevo-educanal-e1770072292135-135x82.png" group-title="Nation", EduCanal Py [Not 24/7]
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 #EXTINF:-1 tvg-id="CaritasTV.py@SD" tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="General;Religious",Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
