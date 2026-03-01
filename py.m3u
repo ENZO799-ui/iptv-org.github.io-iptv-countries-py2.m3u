@@ -3,7 +3,7 @@
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="BrunoMasiTV.py@SD" tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" group-title="General",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-4 tvg-id="Telefuturo.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="Nation", Telefuturo Paragauy (720p)
+#EXTINF:-4 tvg-id="Telefuturo.py@SD" tvg-logo="https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png" group-title="Nation", Telefuturo Paragauy (720p)
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="America.py@Paraguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Nation", America paraguay (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
@@ -46,9 +46,9 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="DismarRadioTV.py@SD" tvg-logo="https://i.imgur.com/KOuxdMD.png" group-title="Music",Dismar Radio TV (720p)
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py" tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="Sports", Tigo Sports Paraguay (720p)
-https://live.enhdtv.com:8081/8160/index.m3u8
-#EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="Sports", Tigo Sports+ Paraguay (720p)
-https://corgol.com@live.enhdtv.com:8081/8160/index.m3u8
+https://tigocloud.desdeparagauy.com.py-east-1.amazonaws.com@live.enhdtv.com:8081/8160/index.m3u8
+#EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-logo="https://www.personal.com.py/img/og-generico-flow.png" group-title="Sports", Eventos Flow Sports py (720p)
+https://cdn.cvattv.flow.com.ar@live.enhdtv.com:8081/8160/index.m3u8
 #EXTINF:-1 tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Sports", Claro Sports
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTUSaL5q1VtS-E1wCfb1nvO4/m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports", TUDN
