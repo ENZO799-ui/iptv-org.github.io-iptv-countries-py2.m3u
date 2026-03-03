@@ -141,7 +141,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
 #EXTINF:-1 tvg-id="UniversalReality.la@Default" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Movies;Series", UNIVERSAL REALITY Latin America (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
-#EXTINF:-1 tvg-id="AXN.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="✅CINES Y SERIES✅", AXN
+#EXTINF:-1 tvg-id="AXN.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies;Series", AXN
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Movies;Series", E! Latin America (1080p)
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-14_720.m3u8
@@ -169,7 +169,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-79.playlist.m3u
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
 #EXTINF:-1 tvg-id="Tastemade.la@Default" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Lifestyle", TASTEMADE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/100.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="Movies;Series" Studio Universal Latin America
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="Movies;Series", Studio Universal Latin America
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-67.playlist.m3u8
 #EXTINF:-1 tvg-id="History.la@Default" tvg-logo="https://i.ibb.co/cSf474qK/History-Logo-svg.png" group-title="Movies;Series", HISTORY
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-40.playlist.m3u8
