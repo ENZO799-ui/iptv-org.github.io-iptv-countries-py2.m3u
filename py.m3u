@@ -97,6 +97,8 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-32.playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Animation;Kids", DISNEY JR. Latin America (1080p)
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-35.playlist.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.es" tvg-name="ES17000065P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Niños" , BABY SHARK TV
+https://jmp2.uk/stvp-ES17000065P
 #EXTINF:-1 tvg-id="BabyTV.int@Default" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Animation;Kids", BABYTV Latin America (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
 #EXTINF:-1 tvg-id="Tooncast.la@Default" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation;Kids", TOONCAST Latin America (1080p)
@@ -209,6 +211,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/57.m3u8
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-25.playlist.m3u8
 #EXTINF:-1 tvg-id="TLNNovelas.la@Default" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Movies;Series", TLN NOVELAS
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/75.m3u8
+#EXTINF:-1 tvg-id="KanalDDrama.es" tvg-name="ESBC1700001QI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png" group-title="Serie" , Vive Kanal D Drama
+https://jmp2.uk/stvp-ESBC1700001QI
 #EXTINF:-1 tvg-id="Lifetime.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Movies;Series", LIFETIME
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/Lifetime.playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.la@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/512px-HBO_Latino_%282014%29.svg.png" group-title="Movies;Series", HBO
