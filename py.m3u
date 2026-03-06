@@ -83,12 +83,6 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-91.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-93.playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://i.ibb.co/SBkkDxq/fs3.png" group-title="Sports", Fox Sports 3
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-92.playlist.m3u8
-#EXTINF:-1 tvg-id="CBSSports.us@Default" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports", CBS SPORTS
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazo.us@Default" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports", CBS SPORTS GOLAZO
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d541dfa-eca6-11ee-97a9-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=00564372-d72f-4f86-81b0-c4307026c645&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="CBSSportsHQ.us@Default" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports", CBS SPORTS HQ
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d541a6c-eca6-11ee-9417-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c8101bd6-94f5-4b0b-84f0-26de54287742&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="FIFAPlus.int@Default" tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/1200x675/logo-de-fifa-plus.webp" group-title="Sports", FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Teledeporte_logo.png/960px-Teledeporte_logo.png?20111025105920" group-title="Sports", TELEDEPORTE ES
