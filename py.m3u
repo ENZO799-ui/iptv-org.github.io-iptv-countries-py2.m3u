@@ -69,6 +69,8 @@ https://cdn.cvattv.flow.com.ar@live.enhdtv.com:8081/8160/index.m3u8
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTUSaL5q1VtS-E1wCfb1nvO4/m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports", TUDN
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://www.copaangelina.com/tudn-logo.f5be7aa5.png" group-title="Sports", TUDN UNIVISION
+https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 tvg-id="ESPN.ar@Default" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png" group-title="Sports", ESPN Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
 #EXTINF:-1 tvg-id="ESPN2.ar@Default" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Sports", ESPN 2 Latin America
